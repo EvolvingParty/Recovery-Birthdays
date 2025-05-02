@@ -61,4 +61,4 @@ If you have any questions or concerns about this Privacy Policy, please contact 
 
 ## **8. Availability**
 
-A copy of this Privacy Policy is available online at https://EvolvingParty.github.io/RecoveryBirthdays/Docs/PRIVACY.md
+A copy of this Privacy Policy is available online at [https://EvolvingParty.github.io/RecoveryBirthdays/Docs/PRIVACY.md](https://github.com/EvolvingParty/RecoveryBirthdays/blob/main/Docs/PRIVACY.md)
