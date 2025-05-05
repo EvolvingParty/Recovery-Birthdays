@@ -40,7 +40,7 @@ All content, branding, and features of Recovery Birthdays are the intellectual p
 
 ## 6. Privacy
 
-Please refer to our [Privacy Policy](https://recoverybirthdays.info/privacy-policy) for details on how we handle data. The App does not collect or transmit personal data to any external server, and data remains stored locally on your device unless explicitly shared by you.
+Please refer to our Privacy Policy at [https://EvolvingParty.github.io/RecoveryBirthdays/Docs/PRIVACY.md](https://github.com/EvolvingParty/RecoveryBirthdays/blob/main/Docs/PRIVACY.md) for details on how we handle data. The App does not collect or transmit personal data to any external server, and data remains stored locally on your device unless explicitly shared by you.
 
 ---
 
