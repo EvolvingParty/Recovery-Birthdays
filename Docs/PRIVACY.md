@@ -18,8 +18,9 @@ By using the **Recovery Birthdays** app, you consent to the collection and use o
 - Contact names
 - Recovery birthday dates
 - A single image per contact (if provided)
+- Notes, phone numbers and email addresses associated with contact you create
 
-**We do not store or access any additional contact information**, such as phone numbers, email addresses, physical addresses, job titles, or personal notes.
+**We do not access, store or share any additional contact information from you device. 
 
 If any data from your contacts is needed, such as when adding a new contact or sending a text message, the information is accessed temporarily and **not stored** by the app.
 
